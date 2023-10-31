@@ -1,4 +1,4 @@
-![image](https://github.com/nazmirul/calculator/assets/7151423/5d168340-e54b-446a-b9b3-f9d429fbc7c2)Calculator.js: a node.js Demonstration Project
+Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
